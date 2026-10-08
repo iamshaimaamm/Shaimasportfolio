@@ -1,6 +1,6 @@
 /* Layout: a stack of file folders. Each section is a folder with a staggered index tab; cards sit inside like pinned sheets. */
 :root{
-  --cream:#FAF7F2; --pink:#FF7FAE; --pink-soft:#FFD3E2; --orange:#ffc8a7; --yellow:#fff290;
+  --cream:#FAF7F2; --pink:#FF7FAE; --pink-soft:#FFD3E2; --orange:#ffb78b; --yellow:#fff290;
   --ink:#1A1A1A; --muted:#6B6560; --white:#FFFFFF;
   --display:"Syne","Arial Black",Impact,sans-serif;
   --body:"DM Sans","Helvetica Neue",Arial,sans-serif;
